@@ -7,13 +7,13 @@ In this notebook, we made a prediction for the title of the paper based on the A
 
 * **Read Data Set**
 * **Drop Duplicates and NA values**
-**3) Text Cleaning**
-**4) Siplt Data**
-**5) Preparing the Tokenizer, sequences & padding**
-**5) Upload attention Layer**
-**6) Load libraries**
-**7) Build encoder-decoder model**
-**8) Train the model**
-**9) Visualize training results**
-**10) Inference**
-**11) Test Data and BLUE Score**
+* **Text Cleaning**
+* **Siplt Data**
+* **Preparing the Tokenizer, sequences & padding**
+* **Upload attention Layer**
+* **Load libraries**
+* **Build encoder-decoder model**
+* **Train the model**
+* **Visualize training results**
+* **Inference**
+* **Test Data and BLUE Score**
