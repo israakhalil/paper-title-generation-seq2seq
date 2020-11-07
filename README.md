@@ -8,11 +8,11 @@ In this notebook, we made a prediction for the title of the paper based on the A
 * **Read Data Set**
 * **Drop Duplicates and NA values**
 * **Text Cleaning**
-* **Siplt Data**
+* **Split Data**
 * **Preparing the Tokenizer, sequences & padding**
 * **Upload attention Layer**
 * **Load libraries**
-* **Build encoder-decoder model**
+* **Build the encoder-decoder model**
 * **Train the model**
 * **Visualize training results**
 * **Inference**
