@@ -5,8 +5,8 @@ seq2seq is a general-purpose encoder-decoder framework for Tensorflow that can b
 
 In this notebook, we made a prediction for the title of the paper based on the Abstract, We follow the following steps:
 
-**1) Read Data Set**
-**2) Drop Duplicates and NA values**
+***Read Data Set**
+***Drop Duplicates and NA values**
 **3) Text Cleaning**
 **4) Siplt Data**
 **5) Preparing the Tokenizer, sequences & padding**
