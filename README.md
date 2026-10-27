@@ -1,5 +1,5 @@
-# Prediction-of-title-paper-Seq2Seq-Attention-Lay
-Prediction of title paper Seq2Seq &amp; Attention Lay
+# Paper Title Generation — Seq2Seq with Attention
+Generate a research paper title from its abstract with a Seq2Seq LSTM and an attention layer.
 
 seq2seq is a general-purpose encoder-decoder framework for Tensorflow that can be used for Machine Translation, Text Summarization, Conversational Modeling, Image Captioning, and more.
 
