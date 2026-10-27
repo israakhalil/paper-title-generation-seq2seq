@@ -17,3 +17,16 @@ In this notebook, we made a prediction for the title of the paper based on the A
 * **Visualize training results**
 * **Inference**
 * **Test Data and BLUE Score**
+
+# Tech stack
+Python · TensorFlow / Keras (LSTM encoder–decoder) · Bahdanau attention · NLTK (BLEU) · Jupyter
+
+# Files
+- [`prediction-of-title-paper-seq2seq-attention-lay.ipynb`](prediction-of-title-paper-seq2seq-attention-lay.ipynb) — full pipeline
+- [`attention.py`](attention.py) — Bahdanau attention layer used by the decoder
+
+# Usage
+Open the notebook in Jupyter, Kaggle or Google Colab, point the data path to an arXiv-style dataset with `abstract` and `title` columns, and run all cells.
+
+# License
+MIT
